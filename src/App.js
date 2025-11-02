@@ -34,7 +34,7 @@ function App() {
             </div>
             
           </Col>
-          <Col><div className="logo_name"><h3>JIRA</h3></div></Col>
+          <Col><div className="logo_name"><h3>Esha Kumari</h3></div></Col>
           <Col>
             <Nav className="justify-content-end" >
               <Nav.Item className="nav1">
